@@ -1,7 +1,10 @@
 # purwadhika-capstone1
 Capstone Project Module 1 - Membuat Program Penyewaan/Rental Mobil
 
-!! PASTIKAN SETIAP MENJALANKAN PROGRAM TELAH MENGEMBALIKAN SEMUA SEPERTI SEMULA SEPERTI :
+Di dalam project ini saya membuat program CRUD untuk seorang owner Penyewaan Mobil Premium, dengan tujuan agar sistem penyewaan mobil dan transaksi penyewaan terdata dengan baik.
+Sehingga memudahkan Owner untuk menmonitor flow dari bisnisnya.
+
+- PASTIKAN SETIAP MENJALANKAN PROGRAM TELAH MENGEMBALIKAN SEMUA SEPERTI SEMULA SEPERTI :
 
   1. STATUS KETERSEDIAAN MOBIL YANG DI SEWA DARI TIDAK TERSEDIA MENJADI TERSEDIA
   2. MENGEMBALIKAN SEMUA MOBIL YANG TELAH DI SEWA
